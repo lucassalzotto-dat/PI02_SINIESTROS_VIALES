@@ -17,7 +17,7 @@ El objetivo de este proyecto es realizar un análisis para el Observatorio de Mo
 **ETL** : En la fase de ETL, se registraron casos y víctimas de asesinato y agresión. Se llevaron a cabo acciones como la eliminación de columnas irrelevantes, la conversión de valores "SD" a nulos, el cambio de tipos de datos y la estandarización de nombres utilizando la nomenclatura "snake_case". Todos los nombres se escriben en minúsculas y los espacios se reemplazan por guiones bajos.
 
 
-## **EDA** :Durante la exploración de datos, se identificaron patrones significativos que ofrecieron información valiosa sobre la naturaleza de los datos. Los resultados detallados de este análisis se encuentran en el notebook EDA.
+ **EDA** :Durante la exploración de datos, se identificaron patrones significativos que ofrecieron información valiosa sobre la naturaleza de los datos. Los resultados detallados de este análisis se encuentran en el notebook EDA.
 
 
 ## **Dashboard**:
