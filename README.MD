@@ -17,10 +17,10 @@ El objetivo de este proyecto es realizar un análisis para el Observatorio de Mo
 **ETL** : En la fase de ETL, se registraron casos y víctimas de asesinato y agresión. Se llevaron a cabo acciones como la eliminación de columnas irrelevantes, la conversión de valores "SD" a nulos, el cambio de tipos de datos y la estandarización de nombres utilizando la nomenclatura "snake_case". Todos los nombres se escriben en minúsculas y los espacios se reemplazan por guiones bajos.
 
 
-**EDA** :Durante la exploración de datos, se identificaron patrones significativos que ofrecieron información valiosa sobre la naturaleza de los datos. Los resultados detallados de este análisis se encuentran en el notebook EDA.
+## **EDA** :Durante la exploración de datos, se identificaron patrones significativos que ofrecieron información valiosa sobre la naturaleza de los datos. Los resultados detallados de este análisis se encuentran en el notebook EDA.
 
 
-**Dashboard**:
+## **Dashboard**:
 
 En Power BI, se ha desarrollado un conjunto de cuatro páginas, que incluye una portada, para proporcionar detalles sobre la ubicación, el momento y las características de las víctimas. También se ha integrado una página dedicada a mostrar los Indicadores Clave de Desempeño (KPI) del proyecto, ofreciendo así una visión completa de los resultados. Este tablero específico está disponible en el repositorio correspondiente.
 
@@ -36,32 +36,32 @@ Portada que da la bienvenida y ofrece una visión general del contenido.
 
 Información detallada sobre las características de las víctimas.
 
-![Dashboard Victimas](img/2.png)
+![Dashboard Victimas](img/6.png)
 
 ####  Analisis Ubicación
 
 Información relacionada con las ubicaciones de los accidentes, numero de accidentes, mapa de los accidentes y más.
 
-![Dashboard Ubicación](img/3.png)
+![Dashboard Ubicación](img/2.png)
 
 ####  Analisis Tiempo
 
 Datos sobre los accidentes por año, mes y hora.
 
-![Dashboard Tiempo](img/4.png)
+![Dashboard Tiempo](img/3.png)
 
 ####  KPI: Reducir homicidios viales (Indicadores Clave de Desempeño)
 
 Página dedicada al Indicador Clave de Desempeño número 1, proporcionando métricas clave para evaluar la reducción de accidentes.
 
-![KPI](img/5.png)
+![KPI](img/4.png)
 
 
-####  KPI: Reducir homicidios viales (Indicadores Clave de Desempeño)
+####  KPI: Reducir accidentes motociclistas (Indicadores Clave de Desempeño)
 
 Página dedicada al Indicador Clave de Desempeño número 2, proporcionando métricas clave para evaluar la reducción de accidentes en motocicletas.
 
-![KPI](img/6.png)
+![KPI](img/5.png)
 
 
 ### Conclusiones Obtenidas
