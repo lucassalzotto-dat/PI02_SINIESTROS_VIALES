@@ -103,7 +103,7 @@ Se define como el número total de víctimas fatales que hay en dataset por cada
 
 Para calcular este KPI, se realizó la comparación entre el penúltimo y último semestre de 2021.
 
-  ![KPI](img/5.png)
+  ![KPI](img/4.png)
 
 La tasa de homicidios en siniestros viales durante el último semestre del 2021 fue de 1.35, lo que representa una reducción de 0.42, equivalente a un -23.64%. Esta disminución significa que se logró cumplir la meta de reducir el 10% de la tasa de accidentes viales en el segundo semestre del 2021.
 
