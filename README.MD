@@ -26,38 +26,38 @@ En Power BI, se ha desarrollado un conjunto de cuatro páginas, que incluye una 
 
 Recomiendo descargar el panel para acceder a información más detallada e inetractiva. [Dashboard](Dashboard_SiniestrosViales.pbix)
 
-#### Intro del Dashboard
+### Intro del Dashboard
 
 Portada que da la bienvenida y ofrece una visión general del contenido.
 
 ![Portada del Dashboard](img/1.png)
 
-####  Analisis Victimas
+###  Analisis Victimas
 
 Información detallada sobre las características de las víctimas.
 
 ![Dashboard Victimas](img/6.png)
 
-####  Analisis Ubicación
+###  Analisis Ubicación
 
 Información relacionada con las ubicaciones de los accidentes, numero de accidentes, mapa de los accidentes y más.
 
 ![Dashboard Ubicación](img/2.png)
 
-####  Analisis Tiempo
+###  Analisis Tiempo
 
 Datos sobre los accidentes por año, mes y hora.
 
 ![Dashboard Tiempo](img/3.png)
 
-####  KPI: Reducir homicidios viales (Indicadores Clave de Desempeño)
+###  KPI: Reducir homicidios viales (Indicadores Clave de Desempeño)
 
 Página dedicada al Indicador Clave de Desempeño número 1, proporcionando métricas clave para evaluar la reducción de accidentes.
 
 ![KPI](img/4.png)
 
 
-####  KPI: Reducir accidentes motociclistas (Indicadores Clave de Desempeño)
+###  KPI: Reducir accidentes motociclistas (Indicadores Clave de Desempeño)
 
 Página dedicada al Indicador Clave de Desempeño número 2, proporcionando métricas clave para evaluar la reducción de accidentes en motocicletas.
 
