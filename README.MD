@@ -9,6 +9,7 @@ El objetivo de este proyecto es realizar un análisis para el Observatorio de Mo
 ## **Herramientas Utilizadas**
 
 + Python
++ Excel
 + PowerBi
 
 
